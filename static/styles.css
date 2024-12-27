@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: #D5006D; /* Pink tua */
+}
+
+form {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.login-message {
+    color: #00008B; /* Biru tua */
+    font-weight: bold; /* Opsional, jika Anda ingin pesan terlihat tebal */
+    margin-top: 10px;
+}
+
+button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkgreen;
+}
